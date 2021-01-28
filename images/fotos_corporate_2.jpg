@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" 
+	xml:lang="ru" lang="ru">
+<head>
+<!-- Yandex.Metrika counter -->
+<noscript><div><img src="https://mc.yandex.ru/watch/48241679" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Global site tag (gtag.js) - Google Ads: 782226328 -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content="Новости о предприятии. Новые продукты Минского завода игристых вин. Новости винной индустрии." />
+<script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="/bitrix/cache/css/s1/wines_template/kernel_main/kernel_main.css?1596009783171466" type="text/css"   rel="stylesheet" />
+<link href="/bitrix/css/main/bootstrap.min.css?1569833569120680" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/css/main/font-awesome.min.css?152992860523748" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/wines_template/page_fe8d0d8df80075fee254b3d48bec912d/page_fe8d0d8df80075fee254b3d48bec912d.css?15786375508028" type="text/css"   rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/wines_template/template_d37bd9641047723722d1393275c8c368/template_d37bd9641047723722d1393275c8c368.css?1578637251428593" type="text/css"   data-template-style="true"  rel="stylesheet" />
+
+
+
+<link href="/bitrix/templates/wines_template/common.css" type="text/css" rel="stylesheet" />
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#000000">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+   	<!--[if lte IE 6]>
+	<style type="text/css">
+		
+		#banner-overlay { 
+			background-image: none;
+			filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/bitrix/templates/wines_templateimages/overlay.png', sizingMethod = 'crop'); 
+		}
+		
+		div.product-overlay {
+			background-image: none;
+			filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/bitrix/templates/wines_templateimages/product-overlay.png', sizingMethod = 'crop');
+		}
+		
+	</style>
+	<![endif]-->
+
+	<title>Новости МИНСКОГО ЗАВОДА ИГРИСТЫХ ВИН</title>
+	
+			
+</head>
+<body class="russian ">
+	
+<div class="ver-outer" style="display: none;">
+	<div class="ver-height">
+		<div class="verification-popup d-flex flex-column align-items-center justify-content-center">
+			<div class="ver-inner-container d-flex flex-column justify-content-center">
+				<div class="ver-logo">
+					<img src="/upload/ver-logo.png">
+				</div>
+				<div class="ver-title">
+					<div class="block-title">
+						 Минский завод
+					</div>
+					<div class="block-subtitle">
+						 ИГРИСТЫХ ВИН
+					</div>
+				</div>
+				<div class="ver-question">
+					Вам исполнилось 18 лет?
+				</div>
+				<div class="ver-buttons">
+					<div class="ver-button-left">
+						<div class="ver-yes">
+							Да
+						</div>
+					</div>
+					<div class="ver-button-right">				
+						<div class="ver-no">
+							Нет
+						</div>
+					</div>
+				</div>
+				<div class="ver-sorry" style="display: none">
+					К сожалению, Вы не можете просматривать контент сайта
+				</div>
+	
+			</div>
+		</div>
+	</div>
+</div>
+			
+	<div id="page-wrapper">
+		<div class="languages" class="mobile">
+			<ul class="translation-links">
+				<span class="langLinks">						 
+				  <a href="/" class="russian notranslate" data-lang="русский" data-langen="Russian">рус</a>/
+				  <a href="/en/news/" class="english notranslate"  data-lang="английский" data-langen="English">eng</a>/
+				  <a href="/cn/" class="chinese notranslate"  data-lang="китайский" data-langen="Chinese (Simplified)">中文</a>	
+				</span>				
+			  <form id="top-search" action="">
+				  <input type="search" name="q" plceholder="Поиск" class="search-input">
+				  <span class="search-image" href="/search">
+					  <img class="search-icon" src="/bitrix/templates/wines_template/images/search.svg">			  
+					  <img class="close-icon" style="display: none" src="/bitrix/templates/wines_template/images/cancel-grey.svg">			  
+				  </span>
+			  </form>
+			</ul>
+		</div>		
+	<div id="panel"></div>
+	<div class="nav-toggle">
+  <div class="nav-toggle-bar"></div>
+	</div>
+	<nav class="nav">
+		<div class="row">
+			<div class="nav-logo">
+				<a href="/"><img src="/upload/logo.png"></a>
+			</div>
+					  
+		  <div class="nav-title">
+				Минский завод
+			</div>
+			<div class="nav-subtitle">
+				ИГРИСТЫХ ВИН
+			</div>
+			
+<ul>
+
+	
+	
+		
+							<li><a href="/about/" class="root-item">О ЗАВОДЕ</a></li>
+			
+		
+	
+	
+	
+	
+		
+							<li><a href="/production/" class="root-item">ПРОИЗВОДСТВО</a></li>
+			
+		
+	
+	
+	
+	
+		
+							<li><a href="/news/" class="root-item-selected">НОВОСТИ</a></li>
+			
+		
+	
+	
+	
+	
+		
+							<li><a href="/wine/" class="root-item">КЛАССИЧЕСКИЕ ВИНА</a></li>
+			
+		
+	
+	
+	
+	
+		
+							<li><a href="/champagne/" class="root-item">ШАМПАНСКИЕ И ИГРИСТЫЕ ВИНА</a></li>
+			
+		
+	
+	
+	
+	
+		
+							<li><a href="/cocktails/" class="root-item">ВИННЫЕ КОКТЕЙЛИ</a></li>
+			
+		
+	
+	
+	
+	
+		
+							<li><a href="/partners/" class="root-item">ПАРТНЕРАМ</a></li>
+			
+		
+	
+	
+	
+	
+		
+							<li><a href="/purchases/" class="root-item">ЗАКУПКИ</a></li>
+			
+		
+	
+	
+	
+	
+		
+							<li><a href="/stores/" class="root-item">МАГАЗИНЫ</a></li>
+			
+		
+	
+	
+	
+	
+		
+							<li><a href="/contacts/" class="root-item">КОНТАКТЫ</a></li>
+			
+		
+	
+	
+
+
+</ul>
+<div class="menu-clear-left"></div>
+		  		  
+		  		</div>
+	</nav>	
+		<div class="container menu-container">		
+		<div id="header" class="">
+			<div class="header-container row d-flex justify-content-between align-items-center  fixed">
+				<div id="left-menu">
+					<div id="left-menu-inner">
+						
+<ul id="horizontal-multilevel-menu">
+
+	
+	
+		
+							<li><a href="/about/" class="root-item">О ЗАВОДЕ</a></li>
+			
+		
+	
+	
+	
+	
+		
+							<li><a href="/production/" class="root-item">ПРОИЗВОДСТВО</a></li>
+			
+		
+	
+	
+	
+	
+		
+							<li><a href="/news/" class="root-item-selected">НОВОСТИ</a></li>
+			
+		
+	
+	
+	
+	
+					<li><a href="#" class="root-item">ПРОДУКЦИЯ</a>
+				<ul>
+		
+	
+	
+	
+	
+					<li><a href="/wine/" class="parent">КЛАССИЧЕСКИЕ ВИНА</a>
+				<ul>
+		
+	
+	
+			</ul></li>	
+	
+					<li><a href="/champagne/" class="root-item">ШАМПАНСКИЕ И ИГРИСТЫЕ ВИНА</a>
+				<ul>
+		
+	
+	
+			</ul></li>	
+	
+					<li><a href="/cocktails/" class="parent">ВИННЫЕ КОКТЕЙЛИ</a>
+				<ul>
+		
+	
+	
+
+
+</ul>
+<div class="menu-clear-left"></div>
+						
+					</div>
+				</div>
+				
+				<div id="logo">
+										<a href="/" title="На главную страницу"><img src="/bitrix/templates/wines_template/images/logo-2.png">					</a>
+				</div>
+							
+				<div id="right-menu">
+					<div id="languages">
+						<ul class="translation-links">
+						 <span class="langLinks">						 
+						  <a href="/" class="russian notranslate" data-lang="русский" data-langen="Russian">рус </a>/
+						  <a href="/en/news/" class="english notranslate"  data-lang="английский" data-langen="English">eng </a>/
+						  <a href="/cn/" class="chinese notranslate"  data-lang="китайский" data-langen="Chinese (Simplified)"> 中文</a>
+						 </span>
+						 	<form id="top-search" action="">
+							  <input type="search" name="q" plceholder="" class="search-input">
+							  <span class="search-image" href="/search">
+								  <img class="search-icon" src="/bitrix/templates/wines_template/images/search.svg">			  
+								  <img class="close-icon" style="display: none" src="/bitrix/templates/wines_template/images/cancel-grey.svg">			  
+							  </span>
+						  </form>						 
+						</ul>
+					</div>	
+					<div id="right-menu-inner">
+						
+<ul id="horizontal-multilevel-menu">
+
+	
+	
+		
+							<li><a href="/partners/" class="root-item">ПАРТНЕРАМ</a></li>
+			
+		
+	
+	
+	
+	
+		
+							<li><a href="/purchases/" class="root-item">ЗАКУПКИ</a></li>
+			
+		
+	
+	
+	
+	
+		
+							<li><a href="/stores/" class="root-item">МАГАЗИНЫ</a></li>
+			
+		
+	
+	
+	
+	
+		
+							<li><a href="/contacts/" class="root-item">КОНТАКТЫ</a></li>
+			
+		
+	
+	
+
+
+</ul>
+<div class="menu-clear-left"></div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+			
+	
+
+<style>
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+} body { top: 0px !important; }
+.goog-tooltip {
+    display: none !important;
+}
+.goog-tooltip:hover {
+    display: none !important;
+}
+.goog-text-highlight {
+    background-color: transparent !important;
+    border: none !important; 
+    box-shadow: none !important;
+}
+</style>
+
+			
+		</div>
+						
+		
+	</div>
+		
+		
+<div id="banner" class="news-text">
+ <img width="1920" alt="4f.jpg" src="/upload/medialibrary/206/20637d6fcd80a3f791abc5b5e250b2cd.jpg" height="800" title="4f.jpg">
+	<div class="banner-text">
+		<div class="block-title">
+			 Новости
+		</div>
+		<div class="block-subtitle">
+			 МИНСКОГО ЗАВОДА ИГРИСТЫХ ВИН
+		</div>
+	</div>
+</div>
+<div id="workarea">
+	<div class="block-news-bg">
+		<div class="container block-news-container">
+			<div class="row">
+				<div class="col-xs-12">
+					 <div class="news-padding">
+</div>
+<div class="bx-newsdetail">
+	<div class="bx-newsdetail-block" id="bx_1878455859_1335">
+		
+					<div class="bx-newsdetail-date">				29.04.2019 12:49:00			</div>
+
+			<h1 class="bx-newsdetail-title">Алкогольное меню корпоратива: победа легких или крепких? Советы в выборе вина. </h1>
+		
+		
+	<div class="bx-newsdetail-content">
+			<p>
+	 Не ладятся отношения в коллективе? Хотите поощрить сотрудников за отличную работу? Не знаете, как отпраздновать красный день календаря не только во «внешнем», но и вашем «внутреннем» рабочем мире? Решение одно – корпоратив. Причем если для сотрудников – это долгожданный отдых, то для организаторов – настоящее хождение по мукам. Устроить традиционное застолье или же организовать формат элитного фуршета? Пригласить музыкантов или ограничиться собственными ди-джеями? Отдать предпочтение знакомым блюдам или удивить гостей экстравагантной кухней? И самый больной вопрос повестки «корпоративного дня» – выбор алкоголя, который, как царь зверей (а у нас царь корпоративного стола), сосредоточивает на себя все внимание. Как не ошибиться в организации алкогольной части мероприятия и оставить у своих коллег прекрасное впечатление после праздника? Палочку –выручалочку ищите в нашей сегодняшней заметке.<br>
+</p>
+<p>
+	 При составлении алкогольного меню нужно учитывать характер мероприятия и приглашенных на него гостей: ведь взгляд на алкоголь у студентов- стажеров и сотрудников со стажем будет разный. Обращаем внимание и на время года: зимой хочется напитков- грелочек, а летом – пляжной свежести. Не забываем и о потенциальном месте проведения, элитном ресторане или же уютной террасе на знакомой даче, где охлаждающие напитки будут разлетаться, как горячие пирожки, да и денежная составляющая тоже играет немаловажную роль.
+</p>
+<p style="text-align: center;">
+ <img alt="ÐÐ°ÑÑÐ¸Ð½ÐºÐ¸ Ð¿Ð¾ Ð·Ð°Ð¿ÑÐ¾ÑÑ ÐºÐ¾ÑÐ¿Ð¾ÑÐ°ÑÐ¸Ð² Ð² ÑÐ»Ð¸ÑÐ½Ð¾Ð¼ ÑÐµÑÑÐ¾ÑÐ°Ð½Ðµ" src="https://www.blck.com.ua/wp-content/uploads/2017/03/%D0%91%D0%B0%D0%BD%D0%BA%D0%B5%D1%82-%D0%94%D0%B5%D0%BD%D1%8C-%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BB%D0%B8-%D0%9A%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2-%D0%B2-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D0%B5-Black-Market-%D0%B2-%D0%9A%D0%B8%D0%B5%D0%B2%D0%B5-11.jpg"><br>
+</p>
+<p>
+	 Всё это имеет место в вашем списке ворк-листа, и отсюда уже будет вырисовываться праздничный макет вашего корпоратива. Однако в любом мероприятии есть классическая основа – алкогольная карта.
+</p>
+<p>
+	 Одни обожают шампанское и игристые вина, и считают их пузырьки символом праздника, другие всем «дамским» напиткам предпочтут крепкий алкоголь. Поэтому главная головная боль организаторов- осуществить алкогольные желания каждого гостя. Учитывать нужно и состав приглашенных, ведь дамы однозначно протянут ухоженные руки к легким виноградным бокалам, а мужчины уверенно отправятся к столу с «крепкими» друзьями.
+</p>
+<p>
+	 Любой корпоратив обычно включает аперитив, основную часть застолья и завершающую часть, сопровождаемую танцами, конкурсами и другими развлечениями.
+</p>
+<p>
+	 Аперитив, как правило, подразумевает угощение гостей шампанским или другим легким напитком на входе. Причем выбор здесь должен быть весьма разнообразным – чтобы гость сразу же смог определиться со своим «алкогольным» настроением и задать хороший тон дальнейшему отдыху. Основная часть застолья — фуршет, обычно сопровождается повышением градуса в бокалах – на столе появляются вина, виски, коньяк и традиционная водка.
+</p>
+<p style="text-align: center;">
+ <img alt="ÐÐ¾ÑÐ¾Ð¶ÐµÐµ Ð¸Ð·Ð¾Ð±ÑÐ°Ð¶ÐµÐ½Ð¸Ðµ" src="http://www.kulina.ru/images/docs/Image/fyr(1).jpg"><br>
+</p>
+<p>
+	 Стоит помнить, что количество крепких напитков также зависит от приглашенных. Обычно прекрасный пол предпочитает легкие напитки, поэтому крепкий алкоголь можно рассчитать только на мужскую половину (с запасом), а вина и игристые напитки – на женскую. Шампанское и ликеры разумно рассчитывать на всех присутствующих.
+</p>
+<p>
+	 Так как Минский завод игристых вин специализируется на виноградных напитках, то мы решили поделиться с вами подсказками при грамотном подборе вина на корпоративные мероприятия.
+</p>
+<p>
+	 Прежде всего, вино должно быть легким, дабы не создавать дополнительную тяжесть после употребления вкусной пищи. Аромат вина должен привлекать внимание и развевать свои невидимые виноградные нити в воздушном пространстве. Конечно, исходя из вкусовых предпочтений гостей, на столе должно быть представлено несколько видов вина. Обязательно следите за температурой! Ведь переохлаждение или недостаточное снижение температуры напитка также неблагоприятно сказывается на качестве вина, как и их преждевременное открытие. Подсказка: белое вино охлаждают до 18-20°С, а красное – до 16-18°С
+</p>
+<p style="text-align: center;">
+ <img alt="ÐÐ°ÑÑÐ¸Ð½ÐºÐ¸ Ð¿Ð¾ Ð·Ð°Ð¿ÑÐ¾ÑÑ Ð¼Ð·Ð¸Ð² ÐºÑÐ°ÑÐ¸Ð²ÑÐµ ÐºÐ°ÑÑÐ¸Ð½ÐºÐ¸" src="https://scontent-iad3-1.cdninstagram.com/vp/0efcb5a0aec6f520c8e81f834063595f/5CECDA01/t51.2885-15/e35/47583748_290572108260095_7026427432307420349_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com"><br>
+</p>
+<p>
+</p>
+<p>
+	 Наша продукция из винной карты станет прекрасным украшением любого мероприятия! К примеру, белая Arta Vinia (Шардоне) и тихий Pinor Noir – незаменимы в организации аперитива, а экстравагантный Лев Голицын придется по вкусу как женской, так и мужской половине. Поэтому ищите свой вкус отличного корпоратива вместе с нашей продукцией и создавайте прекрасную дружескую атмосферу праздничных встреч!
+</p>
+<p style="text-align: center;">
+ <a href="https://wines.by/catalog/vinogradnye-vina/arta-vinia-beloe/"><img width="163" alt="8a8773d02532d325a291321b7976a1ea.png" src="/upload/medialibrary/217/217abd627a9231bec96b397a472b5b43.png" height="700" title="8a8773d02532d325a291321b7976a1ea.png"></a>&nbsp;&nbsp;<a href="https://wines.by/catalog/vinogradnye-vina/pino-nuar-tihoe/"><img width="167" alt="PinotNoir.png" src="/upload/medialibrary/e1f/e1f0d6a02db86dfae3976c03cff682a7.png" height="707" title="PinotNoir.png"></a>&nbsp;&nbsp;<a href="https://wines.by/catalog/igristye-vina-i-shampanskoe/knyaz-lev-golitsyin/"><img width="179" alt="Голицынъ.png" src="/upload/medialibrary/f25/f25e647d02f3ccd7be36dc2136f4e052.png" height="700" title="Голицынъ.png"></a>&nbsp;<br>
+</p>
+<p>
+</p>		</div>
+
+						
+				
+			
+		
+	<div class="row">
+		<div class="col-xs-5">
+		</div>
+		</div>
+	</div>
+</div>
+<div class="item-hashtags">		
+	<span class="hash-item-title">
+		Теги: 
+	</span>
+	
+		
+		<span class="hash-list"><a href="/news/">#все новости</a>
+			</span>
+	<div class="pull-right">
+		<a href="/news/" class="back-url">Вернуться к списку новостей</a>
+	</div>
+	
+		
+</div>
+
+<div class="row">
+	<div class="col-xs-12">
+		<div class="block-title">
+			 Похожие
+		</div>
+		<div class="block-subtitle black">
+			 НОВОСТИ
+		</div>
+	</div>
+</div>
+
+
+<div class="bx-newslist">
+
+<div class="row bx-newsrow">
+	
+		<div class="bx-newslist-container col-sm-12 col-md-6 col-lg-3 hello" id="bx_3218110189_1135">				
+		<div class="bx-newslist-block">
+								
+				<div class="bx-newslist-img">
+								
+					<img src="/upload/resize_cache/iblock/715/500_235_240cd750bba9870f18aada2478b24840a/715f391e9a5dc8cf805c601951dadce5.jpg" width="500" height="235" alt="«Love Magic Romantic» и громкая победа тихого Pinot Noir" title="«Love Magic Romantic» и громкая победа тихого Pinot Noir" />				
+					<a href="/news/nagrady/Love_Magic_Romantic_i_gromkaya_pobeda_tikhogo_Pinot_Noir/">
+					
+														</div>
+							<div class="wine-news-container">
+					<div class="col-xs-12 bx-news-date">
+				<div class="bx-newslist-date"> 21.01.2019</div>
+			</div>
+				<div class="news-title-descr-in">		
+					<h3 class="bx-newslist-title">
+									<a href="/news/nagrady/Love_Magic_Romantic_i_gromkaya_pobeda_tikhogo_Pinot_Noir/">«Love Magic Romantic» и громкая победа тихого Pinot Noir</a>
+							</h3>
+				
+			<div class="bx-newslist-content">
+			
+ 
+
+ Любовь и романтика умеют побеждать. Натуральное виноградное&nbsp; розовое вино Pinot Noir (обычное, не путайте с игристым) от Минского завода игристых вин завоевало победу на конкурсе «Лучшие товары Республики Беларусь» 2018 года.&nbsp;
+ 
+ ...			</div>
+		</div>
+		</div>
+						<div class="row">
+		
+				</div>
+		<div class="row">
+			
+				</div>
+	</div>
+	</div>
+	
+		<div class="bx-newslist-container col-sm-12 col-md-6 col-lg-3 hello" id="bx_3218110189_257">				
+		<div class="bx-newslist-block">
+								
+				<div class="bx-newslist-img">
+								
+					<img src="/upload/resize_cache/iblock/716/500_235_240cd750bba9870f18aada2478b24840a/71621f27afe9ee85c28f2560c944d882.jpg" width="500" height="235" alt="День встречи выпускников!" title="День встречи выпускников!" />				
+					<a href="/news/prochee/Den-vstrechi-vypusknikov/">
+					
+														</div>
+							<div class="wine-news-container">
+					<div class="col-xs-12 bx-news-date">
+				<div class="bx-newslist-date"> 29.01.2014</div>
+			</div>
+				<div class="news-title-descr-in">		
+					<h3 class="bx-newslist-title">
+									<a href="/news/prochee/Den-vstrechi-vypusknikov/">День встречи выпускников!</a>
+							</h3>
+				
+			<div class="bx-newslist-content">
+			
+	 Ежегодно, в первую субботу февраля во многих странах постсоветского пространства, в том числе и в Беларуси, отмечается день встречи выпускников. День встречи выпускников — одновременно очень радостный и чуточку грустный праздник. Радостный от тог...			</div>
+		</div>
+		</div>
+						<div class="row">
+		
+				</div>
+		<div class="row">
+			
+				</div>
+	</div>
+	</div>
+	
+		<div class="bx-newslist-container col-sm-12 col-md-6 col-lg-3 hello" id="bx_3218110189_1079">				
+		<div class="bx-newslist-block">
+								
+				<div class="bx-newslist-img">
+								
+					<img src="/upload/resize_cache/iblock/673/500_235_240cd750bba9870f18aada2478b24840a/673964c9c0b61f7a063cb208c36599a1.jpg" width="500" height="235" alt="Как князь Лев Голицын создал для России шампанское, признанное лучшим в мире?" title="Как князь Лев Голицын создал для России шампанское, признанное лучшим в мире?" />				
+					<a href="/news/wine/Kak_knyaz_Lev_Golitsyn_sozdal_dlya_Rossii_shampanskoye_priznannoye_luchshim_v_mire/">
+					
+														</div>
+							<div class="wine-news-container">
+					<div class="col-xs-12 bx-news-date">
+				<div class="bx-newslist-date"> 31.10.2018</div>
+			</div>
+				<div class="news-title-descr-in">		
+					<h3 class="bx-newslist-title">
+									<a href="/news/wine/Kak_knyaz_Lev_Golitsyn_sozdal_dlya_Rossii_shampanskoye_priznannoye_luchshim_v_mire/">Как князь Лев Голицын создал для России шампанское, признанное лучшим в мире?</a>
+							</h3>
+				
+			<div class="bx-newslist-content">
+			
+ В истории самого аристократичного и утончённого напитка – шампанского – есть один важный переломный момент. И связан он с именем гениального винодела Царской России с белорусскими корнями. Если вы думаете, что эксклюзивы в виноделии принадлежат то...			</div>
+		</div>
+		</div>
+						<div class="row">
+		
+				</div>
+		<div class="row">
+			
+				</div>
+	</div>
+	</div>
+</div>
+
+</div>
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+ <br>
+
+
+	
+		
+<section id="sign-up-section">
+	<div class="container">
+		<div class="title">Подписывайтесь на наши соц.сети</div>
+		<div class="row">
+			<div class="col-12 col-md-6 col-lg-4 col-xl-3  social-box-col">
+				<a target="_blank" href="https://www.youtube.com/channel/UCrU8AGgWfRJ43ZMOu7R12UA">
+					<div class="social-box-outer youtube">	
+						<img class="svg" src="/bitrix/templates/wines_template/images/youtube-logo.svg" alt="youtube"><span>Мы на Youtube</span>
+					</div>
+				</a>					
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 col-xl-3  social-box-col">
+				<a target="_blank" href="https://www.facebook.com/winesby">
+					<div class="social-box-outer facebook">						
+							<img class="svg" src="/bitrix/templates/wines_template/images/facebook-logo-button.svg" alt="facebook"><span>Мы на Facebook					</div>
+				</a>					
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 col-xl-3  social-box-col">
+				<a target="_blank" href="https://www.instagram.com/wines.by/">
+					<div class="social-box-outer instagram">						
+							<img class="svg" src="/bitrix/templates/wines_template/images/instagram.svg" alt="instagram"><span>Мы в Instagram</span>
+					</div>
+				</a>					
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 col-xl-3  social-box-col tik-other">
+				<a target="_blank" href="https://www.tiktok.com/@wines.by?lang=ru">
+					<div class="social-box-outer tiktok">						
+							<img class="svg" src="/images/tiktok.svg" alt="tiktok"><span>Мы в TikTok</span>
+					</div>
+				</a>					
+			</div>
+			<div class="col-12 col-md-6 col-lg-4 col-xl-3  social-box-col tik-main">
+				<a target="_blank" href="https://www.tiktok.com/@wines.by?lang=ru">
+					<div class="social-box-outer tiktok">						
+							<img class="svg" src="/images/tiktok-main.svg" alt="tiktok"><span>Мы в TikTok</span>
+					</div>
+				</a>					
+			</div>
+			
+			
+		</div>																																
+	</div>
+</section>
+		</div>
+<div class="print-button" onclick="window.print();return false;"><img src="/bitrix/templates/wines_template/images/printer-white.svg" alt="print button">Печать</div>
+	<div id="footer">
+		<div class="container">
+			<div class="row">				
+				<div class="col-12 col-md-6 col-lg-4">
+					<div class="footer-title">
+						Карта сайта					</div>
+					<div class="footer-content notranslate">
+						<div class="col-xs-6 no-pad">
+										<ul id="footer-links">
+				<li>
+				
+					<a class="root-item" href="/">Главная</a>
+				</li>
+				<li>
+				
+					<a class="root-item" href="/about/">О заводе</a>
+				</li>
+				<li>
+				
+					<a class="root-item" href="/production/">Производство</a>
+				</li>
+				<li>
+				
+					<a class="root-item-selected" href="/news/">Новости</a>
+				</li>
+				<li>
+				
+					<a class="root-item" href="/catalog/">Продукция</a>
+				</li>
+			</ul>
+						</div>
+						<div class="col-xs-6 no-pad">
+										<ul id="footer-links">
+				<li>
+				
+					<a class="root-item" href="/partners/">Партнерам</a>
+				</li>
+				<li>
+				
+					<a class="root-item" href="/purchases/">Закупки</a>
+				</li>
+				<li>
+				
+					<a class="root-item" href="/stores/">Магазины</a>
+				</li>
+				<li>
+				
+					<a class="root-item" href="/contacts/">Контакты</a>
+				</li>
+				<li>
+				
+					<a class="root-item" href="/sitemap.xml">Карта сайта</a>
+				</li>
+			</ul>
+																				
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-12 col-md-4 ">
+					<div class="footer-title">
+						Контакты					</div>
+					<div class="footer-content notranslate">
+						<p>
+	 ОАО «Минский завод игристых вин»
+</p>
+<p>
+	 220070, Республика Беларусь, г. Минск, ул. Радиальная, 50
+</p>
+<p>
+	 тел.: <a href="tel:+375172992799">+375 (17) 299-27-99</a> <br>
+	 тел.: <a href="tel:+375172992724">+375 (17) 299-27-24</a>
+</p>
+<p>
+ <a href="mailto:info@wines.by">info@wines.by</a>
+</p>
+<p>
+ <a href="https://www.facebook.com/winesby" rel="nofollow" target="_blank"><img src="/upload/facebook.png"></a> <a href="https://vk.com/winesby" rel="nofollow" target="_blank"><img src="/upload/vk.png"></a> <a href="https://www.instagram.com/wines.by/" rel="nofollow" target="_blank"><img src="/upload/insta.png"></a> <img src="/upload/medialibrary/9ae/9ae3d4d93e0504296fdba18211f5d310.png"><a href="https://zen.yandex.ru/id/5f16a2cf673eea1af82cd9bb"><img width="26" alt="9ae3d4d93e0504296fdba18211f5d310.png" src="/upload/medialibrary/114/1143c78018af154ab9c283a83fa32455.png" height="26" title="9ae3d4d93e0504296fdba18211f5d310.png"></a>
+</p>					</div>
+				</div>
+				
+				<div class="col-12 col-md-6 col-lg-4">
+					<div class="footer-title">
+						Форма обратной связи						
+					</div>
+					<div id="footer-form" class="footer-content contact-form">
+						
+						
+		
+		<div id="afbf_err_FID1" class="alx-feedb-error"></div>
+		
+
+
+			<div class="afbf alx_feed_back " id="alx_feed_back_FID1">
+<div class="afbf_feedback_poles">
+	
+	<form id="f_feedback_FID1" name="f_feedback_FID1" action="/news/wine/Alkogol%27noye_menyu_korporativa_pobeda%20_egkikh_li_krepkikh%3F_Sovety_v_vybore_vina/" method="post" enctype="multipart/form-data">
+			<input type="hidden" name="FEEDBACK_FORM_FID1" value="Y" />
+			<input type="hidden" name="HREF_LINK_FID1" value="/news/wine/Alkogol%27noye_menyu_korporativa_pobeda%20_egkikh_li_krepkikh%3F_Sovety_v_vybore_vina/" />
+				<div id="afbf_fio_fid1" class="afbf_item_pole required">
+										
+					<div class="afbf_inputtext_bg" id="error_FIO_FID1">
+							<input type="text" size="40" class="second" placeholder="Имя / Юридическое лицо" id="FIO_FID11" name="FIELDS[FIO_FID1]" value="" class="afbf_inputtext" onblur="if(this.value==''){this.value=''}" onclick="if(this.value==''){this.value=''}" />
+
+							<div class="afbf_error_text">Это поле обязательно для заполнения</div>
+					</div>
+				</div>
+
+				<div id="afbf_email_fid1" class="afbf_item_pole required is_email">
+										
+					<div class="afbf_inputtext_bg" id="error_EMAIL_FID1">
+							<input type="text" size="40" class="second" placeholder="E-mail" id="EMAIL_FID11" name="FIELDS[EMAIL_FID1]" value="" class="afbf_inputtext" onblur="if(this.value==''){this.value=''}" onclick="if(this.value==''){this.value=''}" />
+
+							<div class="afbf_error_text">Введён некорректный e-mail</div>
+					</div>
+				</div>
+
+				<div id="afbf_phone_fid1" class="afbf_item_pole required">
+										
+					<div class="afbf_inputtext_bg" id="error_PHONE_FID1">
+							<input type="text" size="40" class="second" placeholder="Телефон" id="PHONE_FID11" name="FIELDS[PHONE_FID1]" value="" class="afbf_inputtext" onblur="if(this.value==''){this.value=''}" onclick="if(this.value==''){this.value=''}" />
+
+							<div class="afbf_error_text">Это поле обязательно для заполнения</div>
+					</div>
+				</div>
+<div class="afbf_item_pole required">	<div class="afbf_inputtext_bg" id="error_EMPTY_TEXT">
+						<textarea class="afbf_textarea" placeholder="Сообщение *" cols="10" rows="10" id="EMPTY_TEXTFID1" name="FEEDBACK_TEXT_FID1"></textarea>
+					</div>
+					<div class="afbf_error_text">Это поле обязательно для заполнения</div>
+				</div>
+					<div class="afbf_item_pole item_pole__captcha required">
+
+<!--'start_frame_cache_SqNGa6'-->						<input type="hidden" id="alx_fb_captchaSid_FID1" name="captcha_sid" value="0c0c3cdd6ab21911ca7a18999b83b832">
+						<div class="afbf_pole_captcha">
+							<img class="image" id="alx_cm_CAPTCHA_FID1" src="/bitrix/tools/captcha.php?captcha_sid=0c0c3cdd6ab21911ca7a18999b83b832" width="180" height="40">
+								<span class="afbf_captcha_reload" onclick="ALX_ChangeCaptcha('FID1');return false;"></span>
+						</div>
+<!--'end_frame_cache_SqNGa6'-->						<div class="afbf_name">Введите символы, изображённые на картинке: <span class="afbf_required_text">*</span></div>
+						<div class="afbf_inputtext_bg"><input type="text" class="afbf_inputtext" id="captcha_word_FID1" name="captcha_word" size="30" maxlength="50" value=""></div>
+						<div class="afbf_error_text">					Введён неправильный защитный код.					</div>
+					</div>
+
+	<input type="hidden" name="sessid" id="sessid" value="513758b557fad2bee7fe0d77d7f451aa" />		<div class="afbf_submit_block">
+			<input type="submit" class="fb_close afbf_btn" id="fb_close_FID1" name="SEND_FORM" value="Отправить" />
+		</div>
+	</form>
+	
+</div></div>		</div>
+
+		
+<style type="text/css">
+#alx_feed_back_FID1.alx_feed_back,
+#afbf_err_FID1.alx-feedb-error{
+	width:100%;
+}
+</style>
+						
+					</div>
+				</div>
+						
+			
+				
+			
+			
+
+
+
+
+
+
+
+		
+				</div>
+								
+				
+			</div>
+
+		</div>		
+	</div>
+	<div id="copyright-footer" class="align-content-center d-flex">
+		
+		
+		<div class="container copyright-container">
+	<div class="row">
+		<div class="copyright col-12">
+			<div class="pull-left">
+				 © 2020 ОАО «Минский завод игристых вин» l Концерн "Белгоспищепром" <a rel="nofollow" href="http://www.bgp.by/ru/">bgp.by</a>&nbsp; l&nbsp;
+			</div>
+ <a rel="nofollow" href="http://guvd.gov.by/" target="_blank"><span style="font-size: 9pt;">ГЛАВНОЕ УПРАВЛЕНИЕ ВНУТРЕННИХ ДЕЛ МИНГОРИСПОЛКОМА</span></a><br>
+		</div>
+	</div>
+</div>
+ <br>	</div>
+	
+	
+
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter48241679 = new Ya.Metrika({
+                    id:48241679,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-782226328"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'AW-782226328');
+</script>
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1610985682','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'513758b557fad2bee7fe0d77d7f451aa'});</script><script type="text/javascript"  src="/bitrix/cache/js/s1/wines_template/kernel_main/kernel_main.js?1578649134319658"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+<script type="text/javascript" src="/bitrix/js/main/jquery/jquery-1.8.3.min.js?152992860593636"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/wines_template/kernel_altasib.feedback/kernel_altasib.feedback.js?15786372514675"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/json/json2.min.js','/bitrix/js/main/core/core_ls.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/js/altasib.feedback/jquery.maskedinput/jquery.maskedinput.min.js','/bitrix/templates/wines_template/components/bitrix/news.detail/wines_news_detail/script.js','/bitrix/templates/wines_template/components/bitrix/news.list/wines_news_related/script.js','/bitrix/templates/wines_template/js/jquery-2.2.4.min.js','/bitrix/templates/wines_template/js/swiper.min.js','/bitrix/templates/wines_template/js/jquery.mCustomScrollbar.concat.min.js','/bitrix/templates/wines_template/js/jquery.prettyPhoto.js','/bitrix/templates/wines_template/js/smoothproducts.min.js','/bitrix/templates/wines_template/js/jquery.cookie.js','/bitrix/templates/wines_template/js/jquery.ui.totop.min.js','/bitrix/templates/wines_template/js/custom.js','/bitrix/templates/wines_template/components/bitrix/menu/mobile/script.js','/bitrix/templates/wines_template/components/bitrix/menu/top/script.js','/bitrix/templates/wines_template/components/altasib/feedback.form/wines_form/form_script.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/core/css/core_popup.css','/bitrix/js/main/core/css/core_date.css','/bitrix/css/main/bootstrap.css','/bitrix/css/main/font-awesome.css','/bitrix/templates/wines_template/components/bitrix/news.detail/wines_news_detail/style.css','/bitrix/templates/wines_template/components/bitrix/news.detail/wines_news_detail/themes/blue/style.css','/bitrix/templates/wines_template/components/bitrix/news.list/wines_news_related/style.css','/bitrix/templates/wines_template/css/bootstrap.min.css','/bitrix/templates/wines_template/css/bootstrap-grid.min.css','/bitrix/templates/wines_template/css/bootstrap-reboot.min.css','/bitrix/templates/wines_template/css/jquery.mCustomScrollbar.min.css','/bitrix/templates/wines_template/css/prettyPhoto.css','/bitrix/templates/wines_template/css/prettyPhoto.minimal.css','/bitrix/templates/wines_template/css/swiper.min.css','/bitrix/templates/wines_template/css/smoothproducts.css','/bitrix/templates/wines_template/css/ui.totop.css','/bitrix/templates/wines_template/css/custom.css','/bitrix/templates/wines_template/css/print.css','/bitrix/templates/wines_template/components/bitrix/menu/mobile/style.css','/bitrix/templates/wines_template/components/bitrix/menu/top/style.css','/bitrix/templates/wines_template/components/altasib/feedback.form/wines_form/form_style.css','/bitrix/templates/wines_template/components/altasib/feedback.form/wines_form/themes/theme_3578bd6d208f3593a3df445e9c801b35.css','/bitrix/templates/wines_template/styles.css']); </script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/wines_template/template_d0285b52363808593350aff62a0e968e/template_d0285b52363808593350aff62a0e968e.js?1578637251308255"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/wines_template/page_497d327c9ea487b62485cb330ac14d59/page_497d327c9ea487b62485cb330ac14d59.js?157863755010350"></script>
+
+
+<script>
+$(document).ready(function(){
+if(window.location.pathname == '/') { $('body').addClass("first-page"); }
+})
+</script>
+<script>	
+		  					    
+			if ($.cookie('more18') == null || $.cookie('more18') == 'no') {
+      
+      
+	  		$('.ver-outer').show();
+	         $('.ver-yes').on("click", function(){
+		         $.cookie('more18', 'yes', { expires: 31, path: '/' });
+		         
+	         })
+	         }    	         
+		</script>
+<script type="text/javascript">
+	BX.ready(function() {
+		var slider = new JCNewsSlider('bx_1878455859_1335', {
+			imagesContainerClassName: 'bx-newsdetail-slider-container',
+			leftArrowClassName: 'bx-newsdetail-slider-arrow-container-left',
+			rightArrowClassName: 'bx-newsdetail-slider-arrow-container-right',
+			controlContainerClassName: 'bx-newsdetail-slider-control'
+		});
+	});
+</script><script type="text/javascript">
+			if(typeof ALXpopup_FID1=='undefined'&&typeof ALXpopup!='undefined'&&typeof BX!='undefined')
+				var ALXpopup_FID1=BX.clone(ALXpopup);
+
+			$(document).ready(function(){
+				var param = {
+					'popupWindow':"N"
+				};
+
+				if(typeof ALXpopup_FID1!='undefined')
+					ALXpopup_FID1.init(param);
+				else
+					ALXpopup.init(param);
+			});
+		</script><script type="text/javascript">
+			$(function($){
+				if(typeof $.mask!='undefined'){
+				$('input[name="FIELDS[PHONE_FID1]"]').mask("9 (999) 999-99-99", {placeholder: '_'});
+				}else if(typeof console.warn!='undefined'){console.warn('Conflict when accessing the jQuery Mask Input Plugin: %s typeof $.mask',typeof $.mask);}
+			});
+		</script><script type="text/javascript">
+if(typeof ALX_ReloadCaptcha!='function'){
+	function ALX_ReloadCaptcha(csid,ALX){
+		document.getElementById("alx_cm_CAPTCHA_"+ALX).src='/bitrix/tools/captcha.php?captcha_sid='+csid+'&rnd='+Math.random();
+	}
+	function ALX_SetNameQuestion(obj,ALX){
+		var qw=obj.selectedIndex;
+		document.getElementById("type_question_name_"+ALX).value=obj.options[qw].text;
+			}
+}
+if(typeof ALX_ChangeCaptcha!='function'){
+	function ALX_ChangeCaptcha(ALX){
+		$.getJSON('/bitrix/templates/wines_template/components/altasib/feedback.form/wines_form/reload_captcha.php',function(data){
+			$('#alx_cm_CAPTCHA_'+ALX).attr('src','/bitrix/tools/captcha.php?captcha_sid='+data);
+			$('#alx_fb_captchaSid_'+ALX).val(data);
+		});
+	}
+}
+</script><script type="text/javascript">
+		$(document).ready(function(){
+			if(typeof $.dropdown!='undefined'){
+				$(".afbf_item_pole .afbf_select").dropdown({
+					"dropdownClass": "feedback_dropdown"
+				});
+			}
+		});
+	</script><script type="text/javascript">
+			$(document).ready(function(){
+				var file_w_FID1 = parseInt($("#alx_feed_back_FID1 .afbf_feedback_poles").width() / 5);
+
+				function str_replace_FID1(search, replace, subject){
+					return subject.split(search).join(replace);
+				}
+			});
+		</script><script>	  					    
+			$(document).ready(function() {
+			    
+			if ($.cookie('more18') == null) {
+      
+      
+	  		$('.ver-outer').show();
+	         $('.var-yes').on("click", function(){
+		         $.cookie('more18', 'yes', { expires: 1, path: '/' });
+		         
+	         })
+	         }
+	         });    	         
+		</script><script>
+	(function() {
+
+  var hamburger = {
+    navToggle: document.querySelector('.nav-toggle'),
+    nav: document.querySelector('nav'),
+
+    doToggle: function(e) {
+      e.preventDefault();
+      this.navToggle.classList.toggle('expanded');
+      this.nav.classList.toggle('expanded');
+    }
+  };
+
+  hamburger.navToggle.addEventListener('click', function(e) { hamburger.doToggle(e); });
+//  hamburger.nav.addEventListener('click', function(e) { hamburger.doToggle(e); });
+
+}());	
+	
+	</script></body>
+
+</html>

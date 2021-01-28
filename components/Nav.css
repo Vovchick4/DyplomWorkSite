@@ -1,0 +1,93 @@
+.logos {
+  background: none;
+  border: none;
+  color: white;
+}
+
+.logos:hover {
+  background: none;
+  border: none;
+  color: white;
+  text-decoration: none;
+}
+
+.item_button {
+  color: black;
+  font-weight: 400;
+}
+
+#standard-basic {
+  display: flex;
+}
+
+.button_booking {
+  background: none;
+  height: 100%;
+  /* max-height: 40px; */
+  width: 100%;
+  max-width: 109px;
+  overflow: hidden;
+}
+
+.buttons_nav_booking {
+  float: right;
+}
+
+.buttons_nav_booking:hover {
+  transition: 1.4s;
+}
+
+.move_circle_1 {
+  background: rgb(255, 0, 0);
+  height: 4px;
+  width: 55px;
+  border-radius: 10px;
+  margin-top: 30px;
+  animation: anim_button_1 2.4s linear infinite;
+}
+
+@keyframes anim_button_1 {
+  from {
+    margin-left: -55%;
+    animation-timing-function: ease-in;
+  }
+  to {
+    background: rgb(255, 241, 48);
+    margin-left: 110%;
+    animation-timing-function: ease-in;
+  }
+}
+
+/* .move_circle_2 {
+  background: rgb(255, 0, 0);
+  height: 5px;
+  width: 20px;
+  margin-top: 4px;
+  animation: anim_button_2 0.6s linear infinite;
+}
+
+@keyframes anim_button_2 {
+  from {
+    margin-left: -20%;
+    animation-timing-function: ease-in;
+  }
+  to {
+    margin-left: 100%;
+    animation-timing-function: ease-in;
+  }
+} */
+
+.item_button:hover {
+  color: black;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+#standard-basic {
+  color: rgb(255, 23, 23);
+}
+
+.active-pink-3 {
+  border: 4px solid rgb(107, 94, 94);
+  box-shadow: 0 0 0 2px rgb(167, 140, 140);
+}

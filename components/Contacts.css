@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+html {
+  height: 100%;
+}
+
+/*section*/
+.Contact > section {
+  position: relative;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top: 120px;
+  margin-bottom: 40px;
+}
+
+.border_sec {
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  color: #ffffff;
+  background: #000000;
+}
+
+.contacts_text {
+  font-size: 18px;
+  font-weight: 400;
+  text-align: start;
+  margin-top: 40px;
+}
+
+.contacts_map > iframe {
+  border: 4px double rgb(255, 255, 255);
+  transition: 1.4s;
+  opacity: 0.6;
+}
+
+.contacts_map > iframe:hover {
+  transition: 1.4s;
+  opacity: 1;
+}
+
+.contacts_map {
+  margin-top: 40px;
+}
+
+.block_sec_text {
+  margin-top: 80px;
+}
+
+#map {
+  width: 100%;
+  height: 400px;
+}
+
+.block_qustion {
+  width: 100%;
+  height: 380px;
+  margin-top: 100px;
+  margin-bottom: 40px;
+}
+
+/* ANOMATION */

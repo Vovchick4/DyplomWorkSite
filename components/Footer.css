@@ -1,0 +1,23 @@
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  background: black;
+  color: #ffffff;
+}
+
+.col-md-3 > h4 {
+  margin-top: 60px;
+}
+
+.col-md-3 > p {
+  color: #e0e0e0;
+}
+
+@media screen and (max-width: 1200px) {
+  .img_f {
+    display: inline-block;
+    margin-left: 0px;
+  }
+}

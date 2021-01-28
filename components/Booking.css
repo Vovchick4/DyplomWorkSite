@@ -1,0 +1,299 @@
+/* Animation background */
+@keyframes move {
+  100% {
+    transform: translate3d(0, 0, 1px) rotate(360deg);
+  }
+}
+
+.background {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  background: #3e1e68;
+  overflow: hidden;
+}
+
+.background .background_circle {
+  width: 7vmin;
+  height: 7vmin;
+  border-radius: 7vmin;
+  backface-visibility: hidden;
+  position: absolute;
+  animation: move;
+  animation-duration: 38;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+.background .background_circle:nth-child(0) {
+  color: #e45a84;
+  top: 51%;
+  left: 80%;
+  animation-duration: 73s;
+  animation-delay: -101s;
+  transform-origin: -15vw -9vh;
+  box-shadow: 14vmin 0 2.2392294542025404vmin currentColor;
+}
+.background .background_circle:nth-child(1) {
+  color: #583c87;
+  top: 28%;
+  left: 25%;
+  animation-duration: 63s;
+  animation-delay: -74s;
+  transform-origin: 14vw -22vh;
+  box-shadow: -14vmin 0 2.387560059977773vmin currentColor;
+}
+.background .background_circle:nth-child(2) {
+  color: #ffacac;
+  top: 29%;
+  left: 2%;
+  animation-duration: 87s;
+  animation-delay: -74s;
+  transform-origin: 9vw -23vh;
+  box-shadow: 14vmin 0 2.7179521725589897vmin currentColor;
+}
+.background .background_circle:nth-child(3) {
+  color: #e45a84;
+  top: 18%;
+  left: 5%;
+  animation-duration: 68s;
+  animation-delay: -69s;
+  transform-origin: -2vw 22vh;
+  box-shadow: 14vmin 0 2.551738895697972vmin currentColor;
+}
+.background .background_circle:nth-child(4) {
+  color: #ffacac;
+  top: 5%;
+  left: 31%;
+  animation-duration: 110s;
+  animation-delay: -17s;
+  transform-origin: 12vw 21vh;
+  box-shadow: -14vmin 0 2.6653275124659697vmin currentColor;
+}
+.background .background_circle:nth-child(5) {
+  color: #583c87;
+  top: 3%;
+  left: 72%;
+  animation-duration: 125s;
+  animation-delay: -105s;
+  transform-origin: -23vw -10vh;
+  box-shadow: 14vmin 0 1.9679390774836265vmin currentColor;
+}
+.background .background_circle:nth-child(6) {
+  color: #583c87;
+  top: 3%;
+  left: 89%;
+  animation-duration: 12s;
+  animation-delay: -58s;
+  transform-origin: -14vw 0vh;
+  box-shadow: 14vmin 0 2.0934800028385747vmin currentColor;
+}
+.background .background_circle:nth-child(7) {
+  color: #e45a84;
+  top: 90%;
+  left: 40%;
+  animation-duration: 106s;
+  animation-delay: -55s;
+  transform-origin: 14vw -11vh;
+  box-shadow: -14vmin 0 2.3069838330632617vmin currentColor;
+}
+.background .background_circle:nth-child(8) {
+  color: #583c87;
+  top: 100%;
+  left: 39%;
+  animation-duration: 59s;
+  animation-delay: -104s;
+  transform-origin: 12vw 2vh;
+  box-shadow: -14vmin 0 2.2592832729627896vmin currentColor;
+}
+.background .background_circle:nth-child(9) {
+  color: #e45a84;
+  top: 20%;
+  left: 72%;
+  animation-duration: 75s;
+  animation-delay: -28s;
+  transform-origin: 1vw -15vh;
+  box-shadow: 14vmin 0 2.2853207757445775vmin currentColor;
+}
+.background .background_circle:nth-child(10) {
+  color: #583c87;
+  top: 2%;
+  left: 54%;
+  animation-duration: 21s;
+  animation-delay: -75s;
+  transform-origin: 4vw 24vh;
+  box-shadow: -14vmin 0 2.7065401805048523vmin currentColor;
+}
+.background .background_circle:nth-child(11) {
+  color: #ffacac;
+  top: 4%;
+  left: 22%;
+  animation-duration: 104s;
+  animation-delay: -62s;
+  transform-origin: 5vw -9vh;
+  box-shadow: -14vmin 0 1.9341423463856109vmin currentColor;
+}
+.background .background_circle:nth-child(12) {
+  color: #583c87;
+  top: 21%;
+  left: 6%;
+  animation-duration: 42s;
+  animation-delay: -72s;
+  transform-origin: 0vw -17vh;
+  box-shadow: 14vmin 0 2.04918413417089vmin currentColor;
+}
+/* END Animation background */
+
+/* section */
+.Booking > section {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.block_booking {
+  margin-bottom: 40px;
+  height: 100%;
+  min-height: 600px;
+  width: 100%;
+  background: none;
+}
+
+.booking-box {
+  margin-top: 10%;
+  background: rgba(201, 188, 188, 0.5);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+  transition: 1.4s;
+  opacity: 0.6;
+  animation: slidein 1s linear;
+}
+
+.booking-box:hover {
+  transition: 1s;
+  opacity: 1;
+}
+
+@keyframes slidein {
+  from {
+    opacity: 0.6;
+    transform: scale(1.4);
+  }
+  25% {
+    opacity: 0.8;
+    transform: scale(1.3);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  75% {
+    opacity: 0.8;
+    transform: scale(1.1);
+  }
+  to {
+    opacity: 0.6;
+    transform: scale(1);
+  }
+}
+
+.booking-box > h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.users-box {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 360px;
+}
+
+.users-box > input[type="text"] {
+  background: none;
+}
+
+.users-box > input[type="email"] {
+  background: none;
+}
+
+.users-box > input[type="date"] {
+  background: none;
+}
+
+.users-box > input[type="time"] {
+  background: none;
+}
+
+.users-box > textarea[type="comments"] {
+  background: none;
+}
+
+.users-box > input[type="text"]:focus {
+  background: none;
+  border: 3px solid #555;
+}
+
+p > input[type="text"] {
+  background: none;
+}
+
+p > input[type="text"]:focus {
+  background: none;
+  border: 3px solid #555;
+}
+
+.users-box > input[type="email"]:focus {
+  background: none;
+  border: 3px solid #555;
+}
+
+.users-box > input[type="date"]:focus {
+  background: none;
+  border: 3px solid #555;
+}
+
+.users-box > input[type="time"]:focus {
+  background: none;
+  border: 3px solid #555;
+}
+
+.users-box > textarea[type="comments"]:focus {
+  height: 100px;
+  background: none;
+  border: 3px solid #555;
+}
+
+.button_book:hover {
+  transition: 1.4s;
+}
+
+hr {
+  color: rgb(65, 63, 63);
+  background-color: rgb(65, 63, 63);
+  height: 2px; /* Толщина линии */
+}
+
+.text_booking {
+  text-align: center;
+  margin-bottom: 8px;
+  cursor: default;
+}
+
+/* ANIMATION */
+/* .booking-box h1 {
+  animation: dilived_effect 2s ease-in linear infinite;
+} */
+
+/* END ANIMATION */
+/* END section */
+
+/* MEDIA */
+@media screen and (max-width: 570px) {
+  .block_booking {
+    margin-top: 30%;
+  }
+}
+/* END MEDIA */

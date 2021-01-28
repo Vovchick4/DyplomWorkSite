@@ -1,0 +1,63 @@
+.Test > section {
+  width: 100%;
+  height: 100%;
+}
+
+.background_circle {
+  margin-top: 7%;
+  height: 100%;
+  width: 100%;
+  /* border: 2px solid white;
+  color: #ffffff;
+  background: linear-gradient(
+    180deg,
+    rgba(1, 140, 181, 1) 0%,
+    rgba(0, 0, 1, 1) 60%,
+    rgba(0, 0, 1, 1) 100%
+  ); */
+}
+
+.wrapper > div {
+  background: tomato;
+  color: aquamarine;
+  border: 2px solid black;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: 200px;
+  grid-column-gap: 10px;
+  grid-row-gap: 1em;
+}
+
+.box1 {
+  display: grid;
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: 200px;
+  grid-gap: 10px;
+}
+
+.nested {
+  background: rgb(124, 168, 124);
+}
+
+.box2 {
+  grid-column-start: 1;
+  grid-row-start: 3;
+  grid-row-end: 5;
+}
+
+.box5 {
+  grid-column-start: 2;
+  grid-column-end: 4;
+}
+
+.box6 {
+  grid-column-start: 1;
+  grid-column-end: 4;
+}
